@@ -1,0 +1,20 @@
+Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Contribuição
+
+Contribuições são bem-vindas! Siga os passos abaixo:
+
+    Faça um fork do projeto.
+
+    Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+
+    Faça commit das suas alterações (git commit -m 'Adicionando nova feature').
+
+    Faça push para a branch (git push origin feature/nova-feature).
+
+    Abra um Pull Request.
+
+Autor
+
+Bruno Davila

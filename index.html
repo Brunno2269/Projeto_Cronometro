@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cronômetro simples com funcionalidades de iniciar, pausar, resetar e marcar voltas.">
+    <link rel="stylesheet" href="style.css">
+    <title>Cronômetro</title>
+</head>
+<body>
+    <div class="cronometro-container">
+        <h1>Cronômetro</h1>
+        <div class="display">00:00:00.00</div>
+        <div class="botoes">
+            <button id="iniciar">Iniciar</button>
+            <button id="pausar" disabled>Pausar</button>
+            <button id="resetar" disabled>Resetar</button>
+            <button id="volta" disabled>Volta</button>
+        </div>
+        <div class="voltas">
+            <h2>Voltas</h2>
+            <ul id="lista-voltas"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
