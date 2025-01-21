@@ -1,8 +1,8 @@
+![Cronometro](https://github.com/user-attachments/assets/ac49baa1-dec0-462f-8cc9-d676793a3cf6)
+
 # Cronômetro
 
 Um cronômetro simples e moderno com funcionalidades de iniciar, pausar, resetar e marcar voltas. Desenvolvido com HTML, CSS e JavaScript.
-
-![Cronômetro] (img/Cronometro.png) 
 
 ## Funcionalidades
 
